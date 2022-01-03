@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x250c26c292e73a235b1bd087dcf37a8da1d3371c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x250c26c292e73a235b1bd087dcf37a8da1d3371c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Hootlums",
+  "SYMBOL": "HL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hootlums",
+  "SHOW_BACKGROUND": true
+}
